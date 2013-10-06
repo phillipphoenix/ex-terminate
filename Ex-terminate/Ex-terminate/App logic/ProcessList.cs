@@ -22,8 +22,6 @@ namespace Ex_terminate.App_logic
         public ProcessList()
         {
             update();
-
-            printListToConsole();
         }
 
         public void setSelProc(int index)

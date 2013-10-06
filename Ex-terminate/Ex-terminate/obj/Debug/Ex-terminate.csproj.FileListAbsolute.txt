@@ -14,3 +14,13 @@ C:\Users\Phillip\Dropbox\School\ITU\5. Semester\Programmer som data\Uge 3\opgave
 C:\Users\Phillip\Source\Repos\ex-terminate\Ex-terminate\Ex-terminate\bin\Debug\Ex-terminate.exe.config
 C:\Users\Phillip\Source\Repos\ex-terminate\Ex-terminate\Ex-terminate\obj\Debug\Ex-terminate.exe
 C:\Users\Phillip\Source\Repos\ex-terminate\Ex-terminate\Ex-terminate\obj\Debug\Ex-terminate.pdb
+C:\Users\Phillip\Source\Repos\ex-terminate\Ex-terminate\Ex-terminate\bin\Debug\Ex-terminate.exe
+C:\Users\Phillip\Source\Repos\ex-terminate\Ex-terminate\Ex-terminate\bin\Debug\Ex-terminate.pdb
+C:\Users\Phillip\Source\Repos\ex-terminate\Ex-terminate\Ex-terminate\obj\Debug\Ex-terminate.csprojResolveAssemblyReference.cache
+C:\Users\Phillip\Source\Repos\ex-terminate\Ex-terminate\Ex-terminate\obj\Debug\MainWindow.baml
+C:\Users\Phillip\Source\Repos\ex-terminate\Ex-terminate\Ex-terminate\obj\Debug\MainWindow.g.cs
+C:\Users\Phillip\Source\Repos\ex-terminate\Ex-terminate\Ex-terminate\obj\Debug\App.g.cs
+C:\Users\Phillip\Source\Repos\ex-terminate\Ex-terminate\Ex-terminate\obj\Debug\Ex-terminate_MarkupCompile.cache
+C:\Users\Phillip\Source\Repos\ex-terminate\Ex-terminate\Ex-terminate\obj\Debug\Ex-terminate.g.resources
+C:\Users\Phillip\Source\Repos\ex-terminate\Ex-terminate\Ex-terminate\obj\Debug\Ex_terminate.Properties.Resources.resources
+C:\Users\Phillip\Source\Repos\ex-terminate\Ex-terminate\Ex-terminate\obj\Debug\Ex-terminate.csproj.GenerateResource.Cache
