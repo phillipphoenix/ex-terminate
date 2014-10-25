@@ -24,3 +24,6 @@ C:\Users\Phillip\Source\Repos\ex-terminate\Ex-terminate\Ex-terminate\obj\Debug\E
 C:\Users\Phillip\Source\Repos\ex-terminate\Ex-terminate\Ex-terminate\obj\Debug\Ex-terminate.g.resources
 C:\Users\Phillip\Source\Repos\ex-terminate\Ex-terminate\Ex-terminate\obj\Debug\Ex_terminate.Properties.Resources.resources
 C:\Users\Phillip\Source\Repos\ex-terminate\Ex-terminate\Ex-terminate\obj\Debug\Ex-terminate.csproj.GenerateResource.Cache
+C:\Users\Phillip\Projects\Personal Projects\ex-terminate\Ex-terminate\Ex-terminate\bin\Debug\Ex-terminate.exe.config
+C:\Users\Phillip\Projects\Personal Projects\ex-terminate\Ex-terminate\Ex-terminate\obj\Debug\Ex-terminate.exe
+C:\Users\Phillip\Projects\Personal Projects\ex-terminate\Ex-terminate\Ex-terminate\obj\Debug\Ex-terminate.pdb
